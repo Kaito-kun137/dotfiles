@@ -3,7 +3,7 @@
 sleep 1.5
 
 # Play startup chime
-mpv --no-terminal ~/.local/share/sounds/custom/startup.mp3
+mpv --no-terminal ~/.local/share/sounds/custom/startup.wav
 
 # Play voice greeting
 mpv --no-terminal ~/.local/share/sounds/custom/greeting.mp3
